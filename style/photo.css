@@ -1,0 +1,6 @@
+#photo{
+    background-image: url("/photos/main.png");
+    background-size: cover;
+    width: 30em;
+    height:37em;
+}

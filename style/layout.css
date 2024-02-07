@@ -1,0 +1,29 @@
+#main{
+    display: flex;
+}
+#left{
+    width: 50%;
+}
+#right{
+    width: 50%;
+}
+#photo_text{
+    width: 75%;
+    position:relative;
+    top: 30%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+#sign_up_1{
+    top: 0;
+    margin-right: 5px;
+    float: right;
+}
+#welcoming{
+    margin-top: 15%;
+}
+#btns{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
