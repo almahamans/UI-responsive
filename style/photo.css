@@ -4,5 +4,6 @@
     width: 25em;
     height:35em;
     background-repeat: no-repeat;
-
+    display: block;
+    margin: auto;
 }
