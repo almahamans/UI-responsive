@@ -9,16 +9,21 @@
     }
     #photo{
         width: 100%;
-        height: max-content;
+        height: 20rem;
         margin-bottom: 20%;
+        background-size: cover;
     }
     #photo_text{
+        width: 70%;
+        top: 20%;
+        left: 35%;
         transform: translate(-40%, 40%);      
-    }
-    #left{
-        width: 100%;
     }
     #right{
         width: 100%;
     }
+    #email, #password{
+        width: 100%;
+    }
+   
 }

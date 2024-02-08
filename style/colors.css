@@ -4,3 +4,11 @@ h1, #p{
 a{
     color: black;
 }
+button{
+    background-color: white;
+    border-color: rgb(179, 178, 178);
+}
+#signBtn{
+    background-color: #997825;
+    color: white;
+}
